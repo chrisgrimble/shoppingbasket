@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chrisgrimble.shoppingbasket.BasketTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-05-20T21:06:39" hostname="MacBook-Pro" time="0.647">
+  <properties/>
+  <testcase name="calculateCostOfEmptyBasket" classname="com.chrisgrimble.shoppingbasket.BasketTest" time="0.638"/>
+  <testcase name="calculateCostOfBasketWithMultipleItemsNoDiscount" classname="com.chrisgrimble.shoppingbasket.BasketTest" time="0.002"/>
+  <testcase name="calculateCostOfBasketWithOneItemNoDiscount" classname="com.chrisgrimble.shoppingbasket.BasketTest" time="0.001"/>
+  <testcase name="calculateCostOfBasketWithADiscount" classname="com.chrisgrimble.shoppingbasket.BasketTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

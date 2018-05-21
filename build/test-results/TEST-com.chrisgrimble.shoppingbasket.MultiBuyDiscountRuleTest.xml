@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chrisgrimble.shoppingbasket.MultiBuyDiscountRuleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-05-20T21:06:40" hostname="MacBook-Pro" time="0.014">
+  <properties/>
+  <testcase name="multipleDiscounts" classname="com.chrisgrimble.shoppingbasket.MultiBuyDiscountRuleTest" time="0.01"/>
+  <testcase name="noDiscountWhenNoItems" classname="com.chrisgrimble.shoppingbasket.MultiBuyDiscountRuleTest" time="0.001"/>
+  <testcase name="noDiscountWhenNoDiscountedItemsInBasket" classname="com.chrisgrimble.shoppingbasket.MultiBuyDiscountRuleTest" time="0.001"/>
+  <testcase name="singleDiscountWhenMoreThanMultiBuyAmountButLessThanMultiDiscountAmount" classname="com.chrisgrimble.shoppingbasket.MultiBuyDiscountRuleTest" time="0.001"/>
+  <testcase name="singleDiscountWhenHaveMultipleItems" classname="com.chrisgrimble.shoppingbasket.MultiBuyDiscountRuleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

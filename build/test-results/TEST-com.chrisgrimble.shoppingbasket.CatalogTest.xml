@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chrisgrimble.shoppingbasket.CatalogTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-05-20T21:06:39" hostname="MacBook-Pro" time="0.007">
+  <properties/>
+  <testcase name="getsExceptionIfItemNotInCatalog" classname="com.chrisgrimble.shoppingbasket.CatalogTest" time="0.002"/>
+  <testcase name="canGetPriceForItem" classname="com.chrisgrimble.shoppingbasket.CatalogTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
